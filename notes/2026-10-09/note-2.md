@@ -1,6 +1,6 @@
-# Reading — day 282
+# Scratch — day 282
 
-- reviewed rust notes
-- drafted a checklist
-- next: read docs
-- seed: 0772333b
+- reviewed typescript notes
+- cleaned up a script
+- next: add examples
+- seed: 2360d085
