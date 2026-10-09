@@ -1,6 +1,6 @@
 # Scratch — day 283
 
-- reviewed sql notes
-- drafted a script
-- next: add examples
-- seed: 28b2d1de
+- reviewed go notes
+- cleaned up a script
+- next: write tests
+- seed: 69055c0b
