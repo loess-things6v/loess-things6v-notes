@@ -1,6 +1,6 @@
-# Notes — day 281
+# Todo — day 281
 
 - reviewed python notes
-- drafted a script
-- next: read docs
-- seed: cd3ab195
+- outlined a module
+- next: write tests
+- seed: 311f6065
