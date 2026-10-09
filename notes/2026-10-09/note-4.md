@@ -1,6 +1,6 @@
-# Ideas — day 284
+# Drafts — day 284
 
-- reviewed go notes
+- reviewed typescript notes
 - drafted a module
 - next: add examples
-- seed: 589fdecb
+- seed: d01c4111
